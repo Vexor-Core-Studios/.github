@@ -46,6 +46,12 @@ We maintain transparency through consistent synchronization. You can monitor our
 
 ---
 
+### Legal
+All projects under Vexor Core Studios are governed by our [Master Service Agreement & Universal License](https://github.com/VexorCoreStudios/.github/blob/main/LICENSE.md). 
+By using this software or its assets, you agree to the terms outlined therein.
+
+---
+
 <p align="center">
   <a href="https://discord.gg/zwj5sEbmDs">
     <img src="https://invidget.switchblade.xyz/zwj5sEbmDs" alt="Discord Status" />
