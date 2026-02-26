@@ -47,7 +47,7 @@ We maintain transparency through consistent synchronization. You can monitor our
 ---
 
 ### Legal
-All projects under Vexor Core Studios are governed by our [Master Service Agreement & Universal License](https://github.com/VexorCoreStudios/.github/blob/main/LICENSE.md). 
+All projects under Vexor Core Studios are governed by our [Master Service Agreement & Universal License]([https://github.com/VexorCoreStudios/.github/blob/main/LICENSE.md](https://github.com/Vexor-Core-Studios/.github/blob/main/LICENSE.md)). 
 By using this software or its assets, you agree to the terms outlined therein.
 
 ---
