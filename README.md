@@ -41,7 +41,7 @@ We maintain transparency through consistent synchronization. You can monitor our
 | :--- | :--- |
 | **Discord** | [Join Community](https://discord.gg/zwj5sEbmDs) |
 | **Modrinth** | [Vexor Core Organization](https://modrinth.com/organization/vxcore) |
-| **Documentation** | [Technical Wiki](#) |
+| **Documentation** | [Technical Wiki](https://docs.logixstudios.live/coreteams/) |
 | **Support** | [Issue Tracker](https://github.com/VexorCoreStudios/.github/issues) |
 
 ---
