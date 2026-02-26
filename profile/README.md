@@ -59,9 +59,3 @@ By using this software or its assets, you agree to the terms outlined therein.
   <br>
   <i>"Precision in every line of code. Innovation in every asset."</i>
 </p>
-). 
-By using this software or its assets, you agree to the terms outlined therein.
-
-  <br>
-  <i>"Precision in every line of code. Innovation in every asset."</i>
-</p>
